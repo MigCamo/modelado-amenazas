@@ -140,7 +140,10 @@
                   "id": "fe2672f3-d5d2-4812-aac5-93173b4775bf"
                 }
               ],
-              "hasOpenThreats": true
+              "hasOpenThreats": true,
+              "handlesCardPayment": null,
+              "handlesGoodsOrServices": null,
+              "isWebApplication": null
             }
           },
           {
@@ -401,6 +404,13 @@
               ],
               "hasOpenThreats": true,
               "providesAuthentication": false
+            },
+            "tools": {
+              "items": [
+                "boundary",
+                "button-remove"
+              ],
+              "name": null
             }
           },
           {
